@@ -1,0 +1,20 @@
+{
+  "name": "famo-fibery-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx scripts/smoke-automations.ts",
+    "scene:create": "tsx scripts/create-scene.ts",
+    "scene:lock": "tsx scripts/lock-scene.ts",
+    "gql:hello": "tsx scripts/gql-hello.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.12"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
