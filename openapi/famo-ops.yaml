@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  title: famo-ops Fibery API (placeholder)
+  version: 0.1.0
+  description: >-
+    Placeholder OpenAPI spec for famo-ops. Replace with a full spec describing
+    Fibery-related endpoints or your project's API surface.
+paths: {}
+components: {}
